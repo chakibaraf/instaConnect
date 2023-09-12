@@ -1,0 +1,13 @@
+*,::before,::after {
+  height:  50px;
+  margin-top: 50px;
+}
+
+.container{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-right: 30%;
+
+}
+ 
